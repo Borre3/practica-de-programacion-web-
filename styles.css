@@ -1,0 +1,50 @@
+html {
+    background-color: azure;
+}
+
+head {
+    background-color: rgba(204, 35, 114, 0.205);
+    padding: 10%;
+}
+
+body {
+    background-color: blue;
+    padding: 10%;
+}
+
+header {
+    background-color: aquamarine;
+    border: 1cap;
+    padding: 2%;
+}
+
+nav {
+    background-color: blueviolet;
+    padding: 2%;
+}
+
+main {
+    background-color: yellowgreen;
+    padding: 2%;
+}
+
+section {
+    background-color: brown;
+    padding: 2%;
+}
+
+article {
+    background-color: burlywood;
+    padding: 2%;
+
+}
+
+footer {
+    background-color: rgba(160, 95, 109, 0.493);
+    padding: 2%;
+}
+
+aside {
+    background-color: aquamarine;
+    padding: 2%;
+}
